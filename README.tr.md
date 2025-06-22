@@ -120,7 +120,7 @@ Bu proje, kullanıcı yorumları ve metin cümleleri üzerinden **duygu analizi*
 ## ▶️ Tanıtım Videosu
 Aşağıda projenin tanıtım videosu yer almaktadır:
 
-[![Project Demo](https://img.youtube.com/vi/vdBjLsf7te4/0.jpg)](https://www.youtube.com/watch?v=vdBjLsf7te4)
+[![Project Demo](https://img.youtube.com/vi/hiysGcKcNuU/0.jpg)](https://www.youtube.com/watch?v=hiysGcKcNuU)
 
 ---
 
